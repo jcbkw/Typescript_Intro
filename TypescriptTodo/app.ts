@@ -12,3 +12,4 @@ function totalLength(x: (string | any[]), y: (string | any[])): number {
     }
     
     return total;
+}
